@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/ScatterLineChartWithCustomFunction/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/ScatterLineChartWithCustomFunction/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/ScatterLineChartWithCustomFunction/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ScatterLineChartWithCustomFunction/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/ScatterLineChartWithCustomFunction/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ScatterLineChartWithCustomFunction/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to draw a custom function in the 2D Scatter Line chart  
